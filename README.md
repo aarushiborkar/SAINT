@@ -34,7 +34,7 @@ saint/
 │   └── (mirrors the german_sentiment structure)
 ```
 
-# ✅ Features
+# Features
 
 ## Multilingual Support
 
@@ -65,7 +65,7 @@ saint/
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/saint.git
+git clone https://github.com/your-username/saint.git](https://github.com/aarushiborkar/SAINT.git
 cd saint
 ```
 
