@@ -65,7 +65,7 @@ saint/
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/saint.git](https://github.com/aarushiborkar/SAINT.git
+git clone https://github.com/aarushiborkar/SAINT.git
 cd saint
 ```
 
