@@ -76,13 +76,9 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-## Install Dependencies
 
-```bash
-pip install -r requirements.txt
-```
 
-# 🚀 Usage
+# Usage
 
 Choose your working directory:  
 `german_sentiment/` or `amharic_sentiment/`
@@ -181,7 +177,7 @@ python generate_comparison_html.py
 
 This file visually compares model predictions from BERT, GPT-2, and FLAN side-by-side.
 
-# 📄 Output Files Summary
+# Output Files Summary
 
 | Filename                      | Description                                    |
 |------------------------------|------------------------------------------------|
@@ -193,18 +189,8 @@ This file visually compares model predictions from BERT, GPT-2, and FLAN side-by
 | test_predictions_flan.csv    | FLAN-T5 model predictions                      |
 | comparison_file.html         | HTML report for visual comparison              |
 
-# 🧠 Models Used
+# Models Used
 
 - `bert-base-german-cased`
 - `gpt2`
 - `google/flan-t5-base`
-
-# 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-# 👩‍💻 Author
-
-**Aarushi Borkar**
-
-(Add your GitHub, LinkedIn, or email here if you'd like)
